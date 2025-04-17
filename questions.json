@@ -1,0 +1,204 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "<img width='90%' src='./assests/images/17.png'>",
+    "options": [
+      "./assests/optionImg/1.png",
+      "./assests/optionImg/2.png", 
+      "./assests/optionImg/3.png", 
+      "./assests/optionImg/4.png"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Mia is solving a wooden puzzle. She has three uniquely shaped wooden blocks and one empty space to form a perfect square.<br><img width='90%' src='./assests/images/1.png'><br> Which of the following large puzzle pieces will fit perfectly with the three blocks to complete the square?",
+    "options": [
+      "./assests/optionImg/5.png",
+      "./assests/optionImg/6.png", 
+      "./assests/optionImg/7.png", 
+      "./assests/optionImg/8.png"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3",
+    "question": "<img width='90%' src='./assests/images/18.png'>",
+    "options": [
+      "./assests/optionImg/9.png",
+      "./assests/optionImg/10.png", 
+      "./assests/optionImg/11.png", 
+      "./assests/optionImg/12.png"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Lena builds a sculpture. From above, it looks like this:<br><img width='40%' src='./assests/images/2.png'><br> Which one of the following is a possible view from the side?",
+    "options": [
+      "./assests/optionImg/13.png",
+      "./assests/optionImg/14.png", 
+      "./assests/optionImg/15.png", 
+      "./assests/optionImg/16.png"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q5",
+    "question": "Nina has three foam pieces of different shapes. She tries to make different figures by combining them.<br><img width='70%' src='./assests/images/3.png'><br> Which of the following final shapes cannot be formed using all three pieces?",
+    "options": [
+      "./assests/optionImg/17.png",
+      "./assests/optionImg/18.png", 
+      "./assests/optionImg/19.png", 
+      "./assests/optionImg/20.png"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q6",
+    "question": "A square napkin is folded in half, then again at a right angle to the first fold. A corner is snipped off the folded napkin. When the napkin is fully unfolded, it creates a symmetrical pattern of holes. Which of the following patterns cannot be the result of the described folding and cutting?",
+    "options": [
+      "./assests/optionImg/21.png",
+      "./assests/optionImg/22.png", 
+      "./assests/optionImg/23.png", 
+      "./assests/optionImg/24.png"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q7",
+    "question": "Which one of the following is a possible view from the top side of the shape?<br><img width='50%' src='./assests/images/4.png'><br>",
+    "options": [
+      "./assests/optionImg/25.png",
+      "./assests/optionImg/26.png", 
+      "./assests/optionImg/27.png", 
+      "./assests/optionImg/28.png"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8",
+    "question": "In the image pair below, the image on the right has been created by making a few changes to the image on the left. These changes include: <ul style='text-align:start'><li>Rearranging the order of the shapes</li><li>Rotating two of the shapes</li></ul><br><img width='80%' src='./assests/images/5.png'><br> Which of the following answer options shows a pair of images where the same type of changes have been made to the left image to produce the right one?",
+    "options": [
+      "./assests/optionImg/29.png",
+      "./assests/optionImg/30.png", 
+      "./assests/optionImg/31.png", 
+      "./assests/optionImg/32.png"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q9",
+    "question": "In a shared community garden, individual plots are assigned to people for growing fruits and vegetables. These plots vary in size. The garden contains seven plots, with their dimensions listed below.<br><img width='50%' src='./assests/images/6.png'><br> Which one of the following layout diagrams could correctly represent the arrangement of the plots in the garden?<br> (Assume each diagram respects the condition that the longest side is treated as the length of the plot.)",
+    "options": [
+      "./assests/optionImg/33.png",
+      "./assests/optionImg/34.png", 
+      "./assests/optionImg/35.png", 
+      "./assests/optionImg/36.png"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q10",
+    "question": "If we arrange some wooden blocks as shown below, three of its sides have the same view (just rotated copies of each other). What is the side view from any of the three open faces?<br><img width='45%' src='./assests/images/7.png'>",
+    "options": [
+      "./assests/optionImg/37.png",
+      "./assests/optionImg/38.png", 
+      "./assests/optionImg/39.png", 
+      "./assests/optionImg/40.png"
+    ],
+    "correct": 0
+  },
+    {
+      "questionNo": "Q11",
+      "question": "Observe the given below holder carefully.<br><img width='40%' src='./assests/images/8.png'><br> Which one of the following is not a possible side view of the given pen holder?",
+      "options": [
+      "./assests/optionImg/41.png",
+      "./assests/optionImg/42.png", 
+      "./assests/optionImg/43.png", 
+      "./assests/optionImg/44.png"
+    ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q12",
+      "question": "John has five dominoes. Two of his dominoes are shown below:<br><img width='80%' src='./assests/images/9.png'><br> He places his dominoes end-to-end so that the two numbers on touching faces of adjacent dominoes are the same. He puts the two dominoes shown above at the ends, and the three others in between them, as shown:<br><img width='80%' src='./assests/images/9-1.png'><br> Which could be the three dominoes shown above as blank?",
+      "options": [
+      "./assests/optionImg/45.png",
+      "./assests/optionImg/46.png", 
+      "./assests/optionImg/47.png", 
+      "./assests/optionImg/48.png"
+    ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q13",
+      "question": "The figure shown below represents different views of a solid cube with a thick wire attached to it.<br><img width='80%' src='./assests/images/10.png'><br> Which cube is it?",
+      "options": [
+      "./assests/optionImg/49.png",
+      "./assests/optionImg/50.png", 
+      "./assests/optionImg/51.png", 
+      "./assests/optionImg/52.png"
+    ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q14",
+      "question": "This diagram shows a view of three identical cubes, labelled A, B, and C, placed in a line.<br><img width='50%' src='./assests/images/11.png'><br> Each cube is a standard number cube, where the numbers on opposite faces always add to 7.<br> The faces shown are not adjacent to the touching faces between cubes A and B. <br>What is the product of the two hidden faces of cubes A and B that are touching each other face to face?",
+      "options": ["30", "35", "40", "20"],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q15",
+      "question": "Amir and his friends each had three attempts to land a ball in a scoring bucket: <ul style='text-align:start'><li>Lina scored 8.</li><li> Tom missed once and scored 4.</li><li> Nia scored 11.</li></ul><br><img width='70%' src='./assests/images/12.png'><br> Each bucket zone scores a different whole number of points. The center bucket is worth the most, and each outer bucket is worth fewer points than the one inside it. What did Amir score?",
+      "options": ["6", "7", "9", "10"],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q16",
+      "question": "Liam is designing a simple game where players collect tokens in a specific sequence. There are four types of tokens: $, &, @ and #.<br> The sequence collected so far is:<br> # $ # & & @ # $ & @ $ # @ & # & @ @ $ @ & @<br> Liam wants to add one more token at the end, but he must make sure that there is no repetition of three consecutive symbols anywhere in the sequence. Which token can he safely add?",
+      "options": ["$", "@", "&", "#"],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q17",
+      "question": "Eli is making a mosaic artwork on a rectangular board that measures 3.2 metres by 3 metres. He uses square mosaic tiles, each with a side length of 0.25 metres, and lays them neatly in rows across the board from one edge to the other.<br><img width='40%' src='./assests/images/13.png'><br> Because the board size doesn’t perfectly match the tile size, the last row of tiles must be trimmed to fit. Each tile has a pattern similar to the one shown below (same as original).",
+      "options": [
+      "./assests/optionImg/53.png",
+      "./assests/optionImg/54.png", 
+      "./assests/optionImg/55.png", 
+      "./assests/optionImg/56.png"
+    ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q18",
+      "question": "<div style='display:flex'><div style='width:60%'>Lena has a puzzle made of 4 special double-sided tiles. Each tile has a different letter printed on each side, and no letter is repeated. She can flip and arrange the tiles to form different four-letter words.<br> Using these 4 tiles, Lena has already created the following words:<br>Which one of the following words could Lena also make using the same 4 double-sided tiles?</div><div style='width:40%'><img width='80%' src='./assests/images/14.png'></div></div>",
+      "options": ["BATS", "BOLT", "CABS", "COTS"],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q19",
+      "question": "Noah enjoys entering special dates into his calculator. He enters the date using the DDMMYYYY format.<br><img width='70%' src='./assests/images/15.png'><br> He notices that when he enters the date 12th February 2021, the number on the calculator still looks the same when turned upside down.<br> Intrigued, Noah wonders what other date might share this unusual upside-down property.<br> Which of the following dates will also appear the same when the calculator is flipped upside down?",
+      "options": [
+        "19th January 1061",
+        "26th November 1992",
+        "20th February 2020",
+        "8th March 3080"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q20",
+      "question": "There are six tokens in a board game collection. There are 3 metal tokens and 3 wooden tokens.<br> For each material, there is one token with a circular hole, one with a square hole, and one with a star-shaped hole.<br><img width='50%' src='./assests/images/16.png'><br> Each token is kept in a pouch. All pouches are the same. Each pouch has two symbols on it. One symbol represents the material of the token (metal or wood). The other represents the shape of the hole in the token. (The order of the symbols can vary.) The pouch for the metal token with a circular hole has the symbols: Ω and 𝛑. The pouch for the wooden token with a square hole has the symbols: Φ and λ. A third pouch has the symbols: σ and Φ. Which token could be placed in the third pouch?",
+      "options": [
+        "The metal token with a square hole",
+        "The metal token with a star-shaped hole",
+        "The wooden token with a circular hole",
+        "The wooden token with a star-shaped hole"
+      ],
+      "correct": 3
+    }
+  
+  
+]
